@@ -1,0 +1,173 @@
+﻿*{margin:0px;padding:0px;font-size:12px}
+a{text-decoration:none;font-size:12px}
+img{border:0px}
+ul li{list-style-type:none}
+
+.DivMax1_1{width:166px;height:547px;background-image:url(../Images/looyu_zi.png);float:right;margin-top:80px;position:fixed;right:0px;z-index:100}
+.DivMax1A1{display:block;margin-left:135px;width:22px;height:16px}
+.DivMax1_1 table{margin:150px 0px 0px 15px}
+.DivMax1_1 table tr td{height:22px;}
+.DivMax1Td1 a{color:#B00000}
+.DivMax1_2{width:386px;height:228px;background-image:url(../Images/looyuw.png);position:fixed;margin:0px auto;z-index:100}
+.DivMax1_2Table1{margin:155px 0px 0px 60px}
+.DivMax1_2Table1 .A2{display:block;width:95px;height:36px;background-image:url(../Images/looyuw_left.png)}
+.DivMax1_2Table1 .A3{display:block;width:95px;height:36px;background-image:url(../Images/looyuw_right.png)}
+.header{width:100%;height:auto}
+.Section1{width:1040px;margin:0px auto}
+.Div1{float:left}
+.Div2{width:250px;text-align:right;float:right}
+.Div3{width:100%;text-align:right;float:left}
+.Div3 .nav1{font-weight: bold;float:right;margin-top:8px;margin-right:20px}
+.Div3 .nav1 a{color:#232852;margin:0px 5px}
+.Div4{float:right;text-align:right}
+.Div4 input{float:left;height:18px}
+.A1{float:left;}
+.Div5{float:left}
+.Section2{float:left;width:100%;background-image:url(../Images/body_bg.png);height:46px}
+.Div6{width:1040px;margin:0px auto;}
+.Div6 nav a{display:block;float:left;width:125px;height:46px;border-right:1px solid black;color:white;text-align:center;line-height:46px;font-size:14px;font-weight:bold}
+.Div6 nav a:hover{background-color:#537ABD}
+.Div6 nav img{margin-left:5px}
+.DivCentre{width:100%;float:left;background-color:#F1F1F1}
+.I_Div1{width:1000px;margin:0px auto}
+.I_Div2{width:100%;height:388px}
+.I_Nav{width:1000px;height:40px;float:left;background-image:url(../Images/image_1.jpg)}
+.I_Nav a{height:38px;width:125px;display:block;float:left}
+#id1:hover{background-image:url(../Images/meifei.jpg);background-repeat:no-repeat}
+#id2:hover{background-image:url(../Images/liucheng.jpg);background-repeat:no-repeat}
+#id3:hover{background-image:url(../Images/tongguan.jpg);background-repeat:no-repeat}
+#id4:hover{background-image:url(../Images/yuezi.jpg);background-repeat:no-repeat}
+#id5:hover{background-image:url(../Images/ziliao.jpg);background-repeat:no-repeat}
+#id6:hover{background-image:url(../Images/zhuanti.jpg);background-repeat:no-repeat}
+#id7:hover{background-image:url(../Images/huiguo.jpg);background-repeat:no-repeat}
+#id8:hover{background-image:url(../Images/chengzhang.jpg);background-repeat:no-repeat}
+.I_Aside{width:600px;height:auto;float:left;margin-top:16px;}
+.I_Div3{width:600px;height:321px;float:left;background-color:white}
+.redian{width:600px}
+.I_Div3_Table1{height:100px;margin:20px;float:left}
+.I_Div3_Table1_Td1{font-size:13px;font-weight:bold;color:#666666;height:30px;}
+.I_Div3_Table1_Td2{font-size:12px;color:#A19C98;line-height:22px}
+.I_Div3_Table1_Td2 a{color:#F90634}
+.I_Div3_Ul1{float:left;}
+.I_Div3_Ul1 li{float:left;width:260px;margin-left:20px;border-bottom:1px dashed #E4E4E4;margin-bottom:12px}
+.I_Div3_Ul1 li a{font-size:12px;color:#666666;display:block;float:left;margin-left:4px}
+.I_Div3_Ul1 li span{color:#515151;display:block;float:right}
+.I_Div3_Ul1 li label{color:red;display:block;float:left}
+.Header1{width:600px;height:40px;background-image:url(../Images/redian_1.jpg);background-repeat:no-repeat;float:left;line-height:40px}
+.Header1 .Header1_A2{font-size:12px;font-weight:bold;color:black;float:left}
+.Header1_A1{float:right;color:white;font-size:12px;font-family:Arial;margin-right:20px}
+.I_Div7{width:600px;height:35px;float:left;margin-top:17px;background-color:red;margin-bottom:4px;background-image:url(../Images/meiguoyuezi_1.jpg);text-indent:20px;line-height:35px}
+.I_Div7 span{display:block;float:left;color:#FA0564;font-size:12px;font-weight:bold;}
+.I_Div11{background-image:url(../Images/meiguoyuezi_2.jpg);width:380px;}
+.I_Div8{width:600px;height:490px;float:left;background-color:white}
+.I_Div8 a{display:block;margin:10px 0px 0px 10px;float:left;}
+#I_Div8A a{width:285px;height:150px;overflow:hidden;background-color:black}
+#I_Div8A a div{width:250px;height:130px;margin:0px auto;color:white;font-size:12px;font-family: "微软雅黑";line-height:22px}
+#I_Div8A a div span{font-size:18px;display:block;font-weight:bold}
+.I_Div8_Table1{width:340px;height:71px;margin:0px auto}
+.I_Div8_Td1{height:22px}
+.I_Div8_Td1 a{font-size:14px;font-weight:bold;color:#0FA9E5}
+.I_Div8_Td2{color:#666666;line-height:20px}
+.I_Div8_Div1{border:1px dashed #E4E4E4;width:350px;margin:10px auto}
+.I_Article{width:380px;height:auto;margin:16px 0px 0px 10px;float:left}
+.I_Div10{height:30px;width:100%;margin-bottom:5px;background-image:url(../Images/huanying.jpg);color:#FA0564;font-size:12px;font-weight:bold;text-indent:20px;line-height:30px}
+.scrollDiv {width: 380px;height: 186px;line-height: 25px;float: left;overflow: hidden;background-color: white;}
+.scrollDiv ul{width:330px;margin:0px auto}
+.scrollDiv ul li{line-height:26px}
+.scrollDiv ul li span {float:left}
+.scrollDiv ul li label {float:right}
+.I_Div5,.I_Div6{width:185px;height:90px;background-color:red;float:left;margin-top:10px;background-image:url(../Images/zaixianzixun.jpg)}
+.I_Div6{margin-left:10px;background-image:url(../Images/yuyueyouli.jpg)}
+.I_Div9{width:100%;height:10px;float:left;background-color:white;margin-bottom:20px;}
+.DivCentreNav{width:100%;height:44px;background-image:url(../Images/yuezi_weizi.jpg)}
+.DC_Section1{width:1000px;margin:0px auto;line-height:44px;}
+.DC_Section1 a:hover{color:red}
+.DivCentre1{width:100%;float:left;background: url(../Images/bg.jpg);background-repeat:repeat-x}
+.DivCentre2{width:1010px;margin:0px auto;}
+.Aside1{width:232px;float:left;background-image:url(../Images/sidebar_shadow.png);height:950px}
+.Article1{width:750px;float:left;padding-left:20px}
+.DivTitle{height:45px;line-height:45px;font-size:14px;font-weight:bold;text-indent:45px}
+.DivCentreUl1{margin-left:25px}
+.DivCentreUl1 li{margin-top:15px}
+.DivCentreUl1 li a{width:167px;padding:5px 8px 5px 2px;text-align:left;border-bottom:#CCCCCC 1px solid;line-height:20px;display: block;border-radius: 4px 4px 4px 4px;text-indent:15px}
+.DivCentreUl1 li a:hover{color:black}
+.Ul1{color:#666666}
+.Ul1 li{margin-top:30px}
+.Div_1{width:100%;font-size: 14px;font-weight: bold;height:30px}
+.IndexDivMax .Footer{background-color:#000000}
+.Footer .nav2{width:100%;height:45px;background-color:#181818;text-align:center;color:white;line-height:45px}
+.Footer .nav2 a{color:white;font-size:12px;margin:0px 5px}
+.Footer_Div table{width:1000px;height:76px;margin:0px auto;font-size:12px;}
+.Footer_Div table tr td a{color:white}
+.Footer_Td2{text-indent:30px}
+.Footer_Div1{width:90px;height:66px;background-color:#F81B78;font-size:12px;font-weight:bold;padding-top:10px;color:white}
+.Footer_Td1 a{line-height:18px}
+.Footer{width:100%;height:auto;background: url(../Images/bottombg1.jpg);background-repeat:repeat-x;float:left}
+.FootSection1{width:1000px;margin:0px auto}
+.FootTable1{width:100%}
+.FootTd1{font-family: Verdana,Geneva,sans-serif;font-weight: bold;font-size: 12px;color: #757575;height:50px;border-top: 1px dashed #757575;}
+.FootDiv1{width:221px;height:93px;float:left}
+.FootDiv1{color:#757575;padding-left:10px}
+.FootDiv_1{border-left:1px dashed #757575}
+
+ /*Banner 滚动 样式*/
+        .lxfscroll {
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            position: absolute;
+            height: 388px;
+            overflow: hidden;
+            z-index: 1;
+        }
+
+            .lxfscroll #UL1 {
+                width: 100%;
+            }
+
+                .lxfscroll #UL1 li {
+                    height: 388px;
+                    width: 100%;
+                    text-align: center;
+                    line-height: 300px;
+                    position: absolute;
+                    font-size: 40px;
+                    font-weight: bold;
+                }
+
+                    .lxfscroll #UL1 li img {
+                        width: 100%;
+                        height: 388px;
+                    }
+
+        .lxfscroll-title {
+            position: absolute;
+            width: 400px;
+            z-index: 99;
+        }
+
+            .lxfscroll-title #UL2 li {
+                height: 10px;
+                width: 10px;
+                float: left;
+                line-height: 20px;
+                text-align: center;
+                margin-top: 2px;
+                cursor: pointer;
+                margin-right: 15px;
+            }
+
+        .cur {
+            background-color: #00AEFF;
+        }
+
+        .lxfscroll #UL1 {
+            position: absolute;
+        }
+
+
+
+
+
+
+
